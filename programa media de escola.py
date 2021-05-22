@@ -8,3 +8,6 @@ else:
     print('Sua nota foi ruim, estude mais!')
 
 #Teste
+#cadastro de aluno
+
+
