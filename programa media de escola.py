@@ -6,3 +6,5 @@ if m>=6:
     print('Sua média foi boa!!PARABÉNS!' )
 else:
     print('Sua nota foi ruim, estude mais!')
+
+#Teste
